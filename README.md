@@ -7,7 +7,7 @@ This Code is Based on this code share: https://github.com/f15gdsy/TexturePackerI
 
 Added Features:
   + Process to Animation
-  = Process to Sprites
+  + Process to Sprites
     + Predefined Pivots (Center, Top,... etc.)
 
 IMPORTANT NOTE: 
