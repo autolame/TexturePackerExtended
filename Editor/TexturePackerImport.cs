@@ -24,7 +24,7 @@ public static class TexturePackerImport{
 
     //process to sprites : adds pivot for animations
 
-    [MenuItem("Assets/TexturePacker/Process to Animation")]
+    [MenuItem("Assets/TexturePacker/Process to animated Sprites")]
     static void ProcessToAnimation()
     { ProcessToSprite(9); Debug.Log("Setting Pivots for Animations ... DONE!"); }
 

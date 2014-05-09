@@ -6,7 +6,7 @@ Texture Packer Extended (import Animations, predefined Pivots)
 This Code is Based on this code share: https://github.com/f15gdsy/TexturePackerImporter
 
 Added Features:
-  + Process to Animation
+  + Process to animated Sprites
   + Process to Sprites
     + Predefined Pivots (Center, Top,... etc.)
 
